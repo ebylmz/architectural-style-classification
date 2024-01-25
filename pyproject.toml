@@ -18,6 +18,7 @@ dependencies = [
     "matplotlib",
     "icrawler",
     "pillow",
+    "flask",
 ]
 
 [project.optional-dependencies]
