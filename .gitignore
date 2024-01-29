@@ -1,5 +1,6 @@
 .venv
 build
+models
 data
 downloads
 old-downloads
