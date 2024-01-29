@@ -15,12 +15,6 @@ The primary goal is to understand the evolution of architectural styles during t
 ## 📚 Source Code
 All code is available in the Jupyter notebook named `notebooks/classify_arch.ipynb`.
 
-## How to Use
-1. Clone the repository: `git clone https://github.com/ebylmz/architectural-style-classification.git`
-2. Navigate to the project directory: `cd architectural-style-classification`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the main script: `python main.py`
-
 ## 🔮 Future Work
 1. **Enhance the Dataset:** Integrate more architectural datasets to improve generalization.
 2. **Explore Advanced Architectures:** Investigate models with Transformer and attention mechanisms for further innovation.
