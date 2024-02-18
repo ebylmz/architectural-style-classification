@@ -18,7 +18,6 @@ dependencies = [
     "matplotlib",
     "icrawler",
     "pillow",
-    "flask",
 ]
 
 [project.optional-dependencies]
@@ -44,4 +43,4 @@ fmt = [
 ]
 
 [tool.hatch.build.targets.wheel]
-packages = ["   build"]
+packages = ["build"]
