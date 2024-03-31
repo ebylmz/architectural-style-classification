@@ -22,7 +22,9 @@ The primary goal is to understand the evolution of architectural styles during t
 ![Model Top Clustering](https://github.com/ebylmz/architectural-style-classification/blob/main/doc/model_top_clustering.png)
 
 ## 🎥 Video Explanation
-[Watch the Video Explanation](https://youtu.be/Z_Q1FndZVKA)
+Watch our video for a concise overview of our study:
+
+[![Video Summary](https://i3.ytimg.com/vi/Z_Q1FndZVKA/maxresdefault.jpg)](https://youtu.be/Z_Q1FndZVKA)
 
 ## 📚 Source Code
 All code is available in the Jupyter notebook [classify_arch.ipynb](https://github.com/ebylmz/architectural-style-classification/blob/main/notebooks/classify_arch.ipynb).
